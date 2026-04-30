@@ -1,6 +1,6 @@
 # Vinícius Barbosa - Technology Student
 
-I am a technology student focused on backend architecture and cloud infrastructure. Currently, I am developing Vaga Sniper, an automated job extraction application built with Java and Maven. My objective is to write clean code, manipulate data efficiently, and build functional systems that solve real problems.
+I am a Systems Analysis and Development student focused on backend architecture, data automation, and cloud infrastructure. My portfolio consists of practical projects ranging from data extraction and ETL pipelines built with Python and Pandas, to scalable backend services developed with Java and Spring Boot. My objective is to write clean code, orchestrate efficient data flows, and build robust systems that solve real-world problems.
 
 <br>
 
